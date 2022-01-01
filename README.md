@@ -1,4 +1,5 @@
 ### Hi there 👋
+I m Nilrukshi Robert, Full Stack .NET Developer with over 7+ Years of experince in C# and .NET Core technologies & frameworks.Worked over 10+ SDLC. 
 
 <!--
 **NilrukshiRobert/NilrukshiRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

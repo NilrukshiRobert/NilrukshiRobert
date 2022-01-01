@@ -13,6 +13,9 @@ I m Nilrukshi Robert, Full Stack .NET Developer with over 7+ Years of experince 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/c-sharp-logo-50.png">
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core">
+    <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/NET_Core_Logo.png">
+  </a>
   <a href="https://html.com/">
     <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/icons8-html-5-48.png">
   </a>

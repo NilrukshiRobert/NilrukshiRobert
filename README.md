@@ -3,10 +3,10 @@ I m Nilrukshi Robert, Full Stack .NET Developer with over 7+ Years of experince 
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/gmbastiampillai" target="blank"><img align="center" src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/twitter-48.png" alt="Nilrukshi Robert" height="40" width="40" /></a>
-<a href="https://www.instagram.com/gmbastiampillai/" target="blank"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/instagram-48.png" alt="George Mohan Bastiampillai" height="40" width="40" /></a>
-<a href="https://www.facebook.com/mohan.bastian" target="blank"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/facebook-48.png" alt="George Mohan Bastiampillai" height="40" width="40" /></a>  
-  <a href="https://www.linkedin.com/in/mohanbastiampillai/" target="blank"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/linkedin-48.png" alt="George Mohan Bastiampillai" height="40" width="40" /></a> 
+<a href="https://twitter.com/Nilrukshi" target="blank"><img align="center" src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/twitter-48.png" alt="Nilrukshi Robert" height="40" width="40" /></a>
+<a href="https://www.instagram.com/nilrukshi_robert/" target="blank"><img align="center" src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/instagram-48.png" alt="Nilrukshi Robert" height="40" width="40" /></a>
+<a href="https://www.facebook.com/nilrukshrobert" target="blank"><img align="center" src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/facebook-48.png" alt="Nilrukshi Robert" height="40" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/nilrukshi-robert-02209030/" target="blank"><img align="center" src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/linkedin-48.png" alt="Nilrukshi Robert" height="40" width="40" /></a> 
 <!--
 **NilrukshiRobert/NilrukshiRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

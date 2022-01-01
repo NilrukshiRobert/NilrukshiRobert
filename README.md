@@ -37,9 +37,7 @@ I m Nilrukshi Robert, Full Stack .NET Developer with over 7+ Years of experince 
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
   </a>
-  <a href="https://www.oracle.com/sg/index.html">
-    <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/icons8-oracle-logo-48.png">
-  </a>
+
   
   <!--
 **NilrukshiRobert/NilrukshiRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

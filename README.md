@@ -16,6 +16,15 @@ I m Nilrukshi Robert, Full Stack .NET Developer with over 7+ Years of experince 
   <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core">
     <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/NET_Core_Logo.png" height="40" width="40">
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
+    <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/Blazor_logo.png.png" height="40" width="40">
+  </a>
+  <a href="https://www.telerik.com">
+    <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/Telerik_logo.png" height="40" width="40">
+  </a>
+  <a href="https://graphql-dotnet.github.io/docs/getting-started/introduction">
+    <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/Graphql_logo.png.png" height="40" width="40">
+  </a>
   <a href="https://html.com/">
     <img src="https://github.com/NilrukshiRobert/NilrukshiRobert/blob/main/Assets/icons8-html-5-48.png">
   </a>
